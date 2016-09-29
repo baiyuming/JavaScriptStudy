@@ -1,0 +1,16 @@
+*.iml
+*/.idea/
+.idea
+*/**/activemq-data/
+*/**/*.~vsd
+.settings/
+.project
+/node_modules
+*.iml
+*/.idea/
+*/**/activemq-data/
+*/**/*.~vsd
+*/.DS_Store
+*.idea/
+*.xml
+.idea/*.xml
